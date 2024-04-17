@@ -1,5 +1,5 @@
 # pagination_test
 
-I'm coding on Windows, that I need to change package.json startup confs. 
+I am writing code in Windows, so I needed to change the launch settings of package.json.
 
-Pagination component was added.
+The pagination component has been added.
